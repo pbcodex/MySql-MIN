@@ -1,0 +1,2 @@
+# MySql-MIN
+MySql Mini
